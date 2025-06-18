@@ -1,1 +1,12 @@
 
+title: DSAM Family Resources
+description: Get all kinds of family resources for your disabled friend or family member
+baseurl: "/dsam-family-resources" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: minima # You can change this to another theme later
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
