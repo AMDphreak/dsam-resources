@@ -4,7 +4,6 @@ title: Therapy Providers
 nav_order: 25
 parent: Healthcare
 ---
-# Therapy Providers
 
 General Therapy and ABA Therapy Providers.
 

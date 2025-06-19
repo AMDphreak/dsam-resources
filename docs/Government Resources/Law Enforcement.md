@@ -4,7 +4,6 @@ title: Law Enforcement
 nav_order: 15
 parent: Government Resources
 ---
-# Law Enforcement
 
 | Department | Phone |
 |---|---|

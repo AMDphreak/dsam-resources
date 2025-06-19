@@ -3,8 +3,6 @@ layout: default
 title: Local Links Report
 nav_order: 12
 ---
-# Local Links Report
-
 This report lists all local Markdown links found in the project, along with the files and sections where they are referenced.
 
 | Local Link | References (File and Section) |
