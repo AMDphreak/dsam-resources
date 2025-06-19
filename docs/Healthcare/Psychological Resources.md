@@ -26,6 +26,6 @@ parent: Healthcare
 | Cardinal Clinical Consulting, LLC | Joshua C. Fulwiler, Ph.D.<br>2625 Traceland Drive, Suite B, Tupelo, MS 38801<br>(662) 269-3599<br><https://cardinalclinical.com><br>Services: IQ testing and Autism testing; does not provide ABA therapy.<br>Accepts private insurance; does not accept Medicaid. |
 | Campbell Psychological Services, PLLC | Matthew Campbell, Ph.D.<br>2005 Harris Drive, Oxford, MS 38655<br>(662) 513-9936<br><https://www.campbellps.com><br>Services: IQ testing and Autism testing; does not provide ABA therapy; provides counseling services.<br>Accepts private insurance; does not accept Medicaid. |
 | ADD & Dyslexia Therapy Center | Dr. Felicia M. Knowles, MD<br>1709 Kirby Pkwy., Memphis, TN 38120<br>(901) 759-7977 |
-| Region IV Mental Health | 2705 Hwy 51 S, Hernando, MS 38632<br>(662) 449-1971 |
+| Region IV Mental Health | 2705 Hwy 51 S, Hernando, MS 38632<br>(662) 449-1971<br><https://www.regionivmhs.com/> |
 | Joe Edd Morris, Ph.D. | 1018 North Gloster Street, Tupelo, MS 38804<br>(662) 871-3117<br><https://www.joeeddmorris.com><br><jemorris42@comcast.net><br>Services: IQ testing only; does not provide Autism testing or ABA therapy.<br>Does not accept insurance or Medicaid; private pay only. |
 | Pediatric Therapy Service | Dr. Pamela Buck, PhD<br>1751 Dancy Blvd, Horn Lake, MS 38637<br>(901) 292-5313<br><karen@pediatrictherapyservice.net> |

@@ -8,8 +8,8 @@ nav_order: 8
 
 | Organization | Details |
 |---|---|
-| Taxpayer Advocate Service | <https://www.TaxpayerAdvocate.irs.gov><br>Cecelia J. Sibert<br>PO Box 1698 stop 13M, Memphis, TN 38101<br>(901) 707-3954<br><Cecelia.J.Sibert@irs.gov><br>(901) 707-3900<br>TAS:TN:Memphis@irs.gov |
-| Tony Youssefi, Continuum Planning Partners | (615) 292-5803<br><tyoussefi@financialguide.com> |
+| IRS Taxpayer Advocate Service | Cecelia J. Sibert<br>PO Box 1698 stop 13M, Memphis, TN 38101<br>(901) 707-3954<br><Cecelia.J.Sibert@irs.gov><br>(901) 707-3900<br>TAS for TN email: memphis@irs.gov<br>https://www.irs.gov/taxpayer-advocate<br><https://www.TaxpayerAdvocate.irs.gov> |
+| Continuum Planning Partners | Tony Youssefi<br>(615) 292-5803<br><tyoussefi@financialguide.com> |
 
 ## Financial Advisors
 
