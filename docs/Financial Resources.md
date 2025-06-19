@@ -24,7 +24,7 @@ nav_order: 8
 
 | Organization | Details |
 |---|---|
-| William King Self, CELA | Elderlaw Memphis, PLC<br>5170 Sanderlin Ave., Suite 201, Memphis, TN 38117<br>(901) 603-8730<br>(901) 340-3911<br>(901) 329-3683<br><kself@elderlawmemphis.com><br><https://www.elderlawmemphis.com><br>Certified as a Specialist in Elder Law (CELA) by the National Elder Law Foundation, the ABA approved entity for certification of attorneys in Elder Law.<br>Member, The Special Needs Alliance. Attorneys for Special Needs Planning <https://www.specialneedsalliance.ora> |
+| Elderlaw Memphis, PLC | William King Self, CELA<br>5170 Sanderlin Ave., Suite 201, Memphis, TN 38117<br>(901) 603-8730<br>(901) 340-3911<br>(901) 329-3683<br><kself@elderlawmemphis.com><br><https://www.elderlawmemphis.com><br>Certified as a Specialist in Elder Law (CELA) by the National Elder Law Foundation, the ABA approved entity for certification of attorneys in Elder Law.<br>Member, The Special Needs Alliance. Attorneys for Special Needs Planning <https://www.specialneedsalliance.ora> |
 | Patterson Bray PLLC | (901) 372-5003<br>Note: Several have used to estate plan with a Special Needs Trust and establish guardianship. |
 | Garrett East, CFP®, ChSNC® | Financial Planner<br>LongView Planning Partners<br>(901) 322-9113<br>(512) 300-8530<br>(901) 322-0294 |
 
