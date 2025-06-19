@@ -22,7 +22,7 @@ SSDI grants *Medicare*, while SSI grants *Medicaid*. Medicare and Medicaid are s
 
 ## Where to apply
 
-Application can be done through <https://www.ssa.gov>. For more specific information about Mississippi, see the [Mississippi Division of Medicaid](Government Resources/Mississippi Division of Medicaid.md) article. The following information is not specific to a particular State.
+Application can be done through <https://www.ssa.gov>. For more specific information about Mississippi, see the [Mississippi Division of Medicaid]({% link docs/Government Resources/Mississippi Division of Medicaid.md %}) article. The following information is not specific to a particular State.
 
 ### Applying for Disability Benefits
 

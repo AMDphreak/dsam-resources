@@ -19,4 +19,4 @@ nav_order: 3
 |---|---|---|
 | Private Pay Programs | The Baddour Center | <https://www.baddour.org><br>(662) 562-0100<br>Community for adults with intellectual disabilities<br>3297 Highway 51 South, P.O. Box 97, Senatobia, MS 38668<br>Fax: (662) 562-0114 |
 | | Thrive Memphis | <https://www.thrivemem.org><br>(901) 387-5002<br>6560 Poplar Avenue, Memphis, TN |
-| State Adult Care Programs | See [TN.Gov Resources](Government%20Resources/TN.Gov%20Resources.md), [Mississippi Division of Medicaid](Government%20Resources/Mississippi%20Division%20of%20Medicaid.md). | |
+| State Adult Care Programs | See [TN.Gov Resources]({% link docs/Government Resources/TN.Gov Resources.md %}), [Mississippi Division of Medicaid]({% link docs/Government Resources/Mississippi Division of Medicaid.md %}). | |

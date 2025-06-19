@@ -36,4 +36,4 @@ Different from Shelby County Community Services, Shelby County Community Service
 | Supportive Services | Households seeking resources & skill sets must complete an interest form online: <https://www.shelbycountycsa.org/en/supportive-services> |
 | Direct Appropriation Grant | Helps secure utilities in your name by assisting with a delinquent utility account.<br>Call: (901) 222-4236 |
 | Covid Eviction Prevention Program | Due to Covid-19, risk of eviction due to income hardship.<br>Book appointment online for screening: <https://www.shelbycountycsa.org> |
-| Program Assistance Guide (PDF download) | ![2su7c3vh-200.png](Government Resources/2su7c3vh-200.png) |
+| Program Assistance Guide (PDF download) | ![2su7c3vh-200.png]({{ "/docs/Government Resources/2su7c3vh-200.png" | relative_url }}) |
