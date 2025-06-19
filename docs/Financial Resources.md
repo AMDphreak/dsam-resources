@@ -18,7 +18,7 @@ nav_order: 8
 | Longview Planning Partners | Garrett East<br>Financial Advisor, Special Care Planner<br><geast@financialguide.com><br>618 Oakleaf Office Ln., Ste. 300, Memphis, TN 38117<br>(901) 322-9113 |
 | Shoemaker Financial | Michael Powell<br>Financial Advisor, Investment Advisor Representative<br><mpowell@shoemakerfinancial.com><br>2176 West Street, Suite 100, Germantown, TN 38138<br>(901) 757-5757 |
 | Strategic Financial Partners | Mark Loftis<br>Financial Advisor<br><mloftis@strategicfinancialpartners.com><br>949 South Shady Grove Rd., Suite 300, Memphis, TN 38120<br>(901) 767-5951 |
-| Blanchard Tual | Blanchard Tual<br>1000 Brookfield Rd. #120, Memphis, TN 38119<br>(901) 474-1222<br>Offers help with Special Needs Trusts (SNTs) |
+| Tual & Graves Attorneys | Blanchard Tual<br>1000 Brookfield Rd. #120, Memphis, TN 38119<br>(901) 474-1222<br>Offers help with Special Needs Trusts (SNTs)<br><https://tualgraves.com/blanchard-e-tual> |
 
 ## Special Needs Planning and Elder Law
 
