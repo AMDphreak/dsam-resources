@@ -1,3 +1,5 @@
 # dsam-family-resources
 
-jekyll site for DSAM's Family Resources directory. <https://www.ryanjohnson.dev/dsam-family-resources>
+Down Syndrome Association (DSAM) Family Resources directory. <https://www.ryanjohnson.dev/dsam-family-resources>
+
+jekyll docs project.
