@@ -1,5 +1,5 @@
 # dsam-family-resources
 
-[Down Syndrome Association (DSAM) Family Resources directory](<https://ryanjohnson.dev/dsam-family-resources>)
+Family Resources Directory for [Down Syndrome Association of the Mid-South (DSAM)](<https://www.dsamemphis.org>) made with Jekyll.
 
-jekyll project.
+<https://ryanjohnson.dev/dsam-family-resources> → <https://amdphreak.github.io/dsam-family-resources>
