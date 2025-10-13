@@ -1,4 +1,4 @@
-# dsam-family-resources
+# DSAM Family Resources
 
 Family Resources Directory for [Down Syndrome Association of the Mid-South (DSAM)](<https://www.dsamemphis.org>) made with Jekyll.
 
