@@ -12,7 +12,7 @@ This documentation site is built with MkDocs and the Material theme.
 
 === Prerequisites
 
-- Python 3.8+ (MkDocs is a Python tool)
+- Python 3.8+
 - pip
 
 === Install
@@ -25,7 +25,7 @@ git clone https://github.com/AMDphreak/dsam-resources.git
 cd dsam-resources
 ----
 
-. Create and activate a virtual environment, then install dependencies
+. Create and activate a virtual environment, then install dependencies (or run `./setup.ps1` on Windows)
 +
 [cols="1,1",options="header"]
 |===
@@ -34,23 +34,25 @@ cd dsam-resources
 | Windows (PowerShell 7)
 | [source,powershell]
 ----
-python -m venv .venv
+# Recommended: use uv (fast Python package manager)
+uv venv .venv
 . .\.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ----
 
 | macOS/Linux (bash)
 | [source,bash]
 ----
-python -m venv .venv
+# Recommended: use uv
+uv venv .venv
 source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ----
 |===
 
 . Start the development server
+
+On Windows you can also run `./run.ps1` which will activate the venv and start MkDocs for you.
 +
 [source]
 ----

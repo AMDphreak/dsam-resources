@@ -23,9 +23,22 @@ Set-Location -Path $PSScriptRoot
 
 Ensure-Python
 
+# Prefer uv for venv creation if available
+$hasUv = $false
+try {
+    Write-Run 'uv --version'
+    $null = uv --version
+    $hasUv = $true
+} catch { $hasUv = $false }
+
 if (-not (Test-Path -Path $VenvPath)) {
-    Write-Run "python -m venv $VenvPath"
-    python -m venv $VenvPath
+    if ($hasUv) {
+        Write-Run "uv venv $VenvPath"
+        uv venv $VenvPath
+    } else {
+        Write-Run "python -m venv $VenvPath"
+        python -m venv $VenvPath
+    }
 } else {
     Write-Host "Virtual environment already exists at $VenvPath" -ForegroundColor Yellow
 }
@@ -39,12 +52,22 @@ if (-not (Test-Path -Path $activate)) {
 Write-Run ". $activate"
 . $activate
 
-Write-Run 'python -m pip install --upgrade pip'
-python -m pip install --upgrade pip
+# Ensure uv is available inside the venv (install if missing)
+$hasUvInVenv = $false
+try {
+    Write-Run 'uv --version'
+    $null = uv --version
+    $hasUvInVenv = $true
+} catch { $hasUvInVenv = $false }
+
+if (-not $hasUvInVenv) {
+    Write-Run 'python -m pip install -U uv'
+    python -m pip install -U uv
+}
 
 if (Test-Path -Path 'requirements.txt') {
-    Write-Run 'pip install -r requirements.txt'
-    pip install -r requirements.txt
+    Write-Run 'uv pip install -r requirements.txt'
+    uv pip install -r requirements.txt
 } else {
     Write-Host 'requirements.txt not found. Skipping dependency installation.' -ForegroundColor Yellow
 }
