@@ -1,0 +1,100 @@
+site_name: DSAM Family Resources
+site_description: Resources for families and friends of those with disabilities
+site_author: Down Syndrome Association of the Mid-South
+site_url: https://amdphreak.github.io/dsam-resources
+repo_url: https://github.com/AMDphreak/dsam-resources
+repo_name: AMDphreak/dsam-resources
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.view
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  custom_dir: overrides
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search:
+      lang: en
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enable_git_follow: false
+
+nav:
+  - Home: index.md
+  - General Resources: "( General Resources ).md"
+  - Activities: "Activities.md"
+  - Adult Living: "Adult Living.md"
+  - Autism Resources: "Autism Resources.md"
+  - Community Resources: "Community Resources.md"
+  - Down Syndrome Resources: "Down Syndrome Resources.md"
+  - Employment Resources: "Employment Resources.md"
+  - Financial Resources: "Financial Resources.md"
+  - Food Resources: "Food Resources.md"
+  - Healthcare:
+    - "Healthcare/index.md"
+    - "( General Healthcare Resources )": "Healthcare/( General Healthcare Resources ).md"
+    - "Counseling Services": "Healthcare/Counseling Services.md"
+    - "Crisis Management": "Healthcare/Crisis Management.md"
+    - "Dentists": "Healthcare/Dentists.md"
+    - "Psychological Resources": "Healthcare/Psychological Resources.md"
+    - "Therapy Providers": "Healthcare/Therapy Providers.md"
+  - Government Resources:
+    - "Government Resources/index.md"
+    - "Law Enforcement": "Government Resources/Law Enforcement.md"
+    - "Mississippi Division of Medicaid": "Government Resources/Mississippi Division of Medicaid.md"
+    - "Shelby County Resources": "Government Resources/Shelby County Resources.md"
+    - "SSDI vs SSI (Medicare vs Medicaid)": "Government Resources/SSDI vs SSI (Medicare vs Medicaid).md"
+    - "TN.Gov Resources": "Government Resources/TN.Gov Resources.md"
+  - Housing Resources: "Housing Resources.md"
+  - Legal Resources: "Legal Resources.md"
+  - Spiritual Resources: "Spiritual Resources.md"
+  - Transportation Services: "Transportation Services.md"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dsamemphis
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/DsaMemphis
+  version:
+    provider: mike
+  stylesheets:
+    - assets/stylesheets/extra.css
