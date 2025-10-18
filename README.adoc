@@ -90,8 +90,10 @@ Pushing to `main` triggers the GitHub Pages workflow to build and deploy the sit
 
 == Contact
 
-Questions or suggestions: `director@dsamemphis.org`.
+Questions or suggestions: link:mail-to:director@dsamemphis.org[`director@dsamemphis.org`].
+
+Maintained by the Down Syndrome Association of the Mid-South `https://www.dsamemphis.org`.
 
 == License
 
-Maintained by the Down Syndrome Association of the Mid-South.
+MIT License
