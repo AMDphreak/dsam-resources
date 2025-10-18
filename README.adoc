@@ -1,0 +1,95 @@
+= DSAM Family Resources
+:toc:
+:toclevels: 2
+
+A comprehensive resource directory for families and friends of those with disabilities, maintained by the Down Syndrome Association of the Mid-South.
+
+Live Site: `https://amdphreak.github.io/dsam-resources`
+
+== Quick Start
+
+This documentation site is built with MkDocs and the Material theme.
+
+=== Prerequisites
+
+- Python 3.8+ (MkDocs is a Python tool)
+- pip
+
+=== Install
+
+. Clone the repository
++
+[source,bash]
+----
+git clone https://github.com/AMDphreak/dsam-resources.git
+cd dsam-resources
+----
+
+. Create and activate a virtual environment, then install dependencies
++
+[cols="1,1",options="header"]
+|===
+| Platform | Commands
+
+| Windows (PowerShell 7)
+| [source,powershell]
+----
+python -m venv .venv
+. .\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+----
+
+| macOS/Linux (bash)
+| [source,bash]
+----
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+----
+|===
+
+. Start the development server
++
+[source]
+----
+mkdocs serve
+----
+
+Open `http://localhost:8000`.
+
+== Build
+
+With your virtual environment activated:
+
+[source]
+----
+mkdocs build
+----
+
+Artifacts are written to the `site/` directory.
+
+== Why requirements.txt?
+
+- MkDocs and its plugins are Python packages. Pinning versions ensures consistent local and CI builds.
+- Locally, install into a virtual environment (as shown). No global Python installs are required.
+
+== Deployment
+
+Pushing to `main` triggers the GitHub Pages workflow to build and deploy the site.
+
+== Contributing
+
+. Fork the repository
+. Create a feature branch
+. Make your changes
+. Open a pull request
+
+== Contact
+
+Questions or suggestions: `director@dsamemphis.org`.
+
+== License
+
+Maintained by the Down Syndrome Association of the Mid-South.
