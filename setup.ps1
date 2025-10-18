@@ -1,9 +1,9 @@
-$ErrorActionPreference = 'Stop'
-Set-StrictMode -Version Latest
-
 param(
     [string]$VenvPath = '.venv'
 )
+
+$ErrorActionPreference = 'Stop'
+Set-StrictMode -Version Latest
 
 function Write-Run($commandLine) {
     Write-Host "> $commandLine" -ForegroundColor Cyan
