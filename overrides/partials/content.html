@@ -1,0 +1,81 @@
+<!--
+  Override the content partial to add GitHub view and StackEdit edit buttons below page titles
+-->
+{% if page and page.meta and page.meta.hide %}
+  {% set hidden = "hidden" if "title" in page.meta.hide %}
+{% endif %}
+<article class="md-content__inner md-typeset" {{ hidden }}>
+  {% if page and page.meta and page.meta.hide and "title" not in page.meta.hide %}
+    <h1>{{ page.title | default(config.site_name, true)}}</h1>
+  {% endif %}
+  
+  <!-- Add GitHub view and StackEdit edit buttons below title -->
+  {% if page and page.file and page.file.src_path %}
+    <div class="source-actions">
+      <div class="source-path">
+        <small>📁 {{ page.file.src_path }}</small>
+      </div>
+      <div class="action-buttons">
+        <a href="https://github.com/AMDphreak/dsam-resources/blob/main/docs/{{ page.file.src_path }}" 
+           target="_blank" 
+           rel="noopener noreferrer" 
+           class="action-button view-button">
+          <span class="twemoji">{% include ".icons/octicons/eye-16.svg" %}</span>
+          View on GitHub
+        </a>
+        <a href="https://stackedit.io/app#url={{ ("https://raw.githubusercontent.com/AMDphreak/dsam-resources/main/docs/" ~ page.file.src_path) | urlencode }}" 
+           target="_blank" 
+           rel="noopener noreferrer" 
+           class="action-button edit-button">
+          <span class="twemoji">{% include ".icons/octicons/pencil-16.svg" %}</span>
+          Edit in StackEdit
+        </a>
+      </div>
+    </div>
+  {% endif %}
+
+  <!-- Render the page content -->
+  {{ page.content }}
+
+  {# Add a generated index on the homepage: root pages first, then folders with indented items #}
+  {% if page and page.is_homepage %}
+    <hr>
+    <h2>Browse Resources</h2>
+    <ul>
+      {# Root-level pages (not sections) #}
+      {% for item in nav.items if item.is_page %}
+        <li><a href="{{ item.url | url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+    <ul>
+      {# Sections with indented children #}
+      {% for section in nav.items if section.is_section %}
+        <li>
+          <strong>{{ section.title }}</strong>
+          {% if section.children %}
+            <ul>
+              {% for child in section.children %}
+                {% if child.is_page %}
+                  <li><a href="{{ child.url | url }}">{{ child.title }}</a></li>
+                {% elif child.is_section %}
+                  <li>
+                    <em>{{ child.title }}</em>
+                    {% if child.children %}
+                      <ul>
+                        {% for grandchild in child.children %}
+                          {% if grandchild.is_page %}
+                            <li><a href="{{ grandchild.url | url }}">{{ grandchild.title }}</a></li>
+                          {% endif %}
+                        {% endfor %}
+                      </ul>
+                    {% endif %}
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</article>

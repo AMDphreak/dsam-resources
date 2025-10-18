@@ -3,12 +3,11 @@ site_description: Resources for families and friends of those with disabilities
 site_author: Down Syndrome Association of the Mid-South
 site_url: https://amdphreak.github.io/dsam-resources
 repo_url: https://github.com/AMDphreak/dsam-resources
-repo_name: AMDphreak/dsam-resources
+# repo_name: AMDphreak/dsam-resources  # Commented out for local development
 
 theme:
   name: material
   features:
-    - navigation.sections
     - search.highlight
     - search.share
     - content.code.copy

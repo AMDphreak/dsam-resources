@@ -1,0 +1,106 @@
+/* Custom styles for source actions */
+.source-actions {
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.source-path {
+  margin-bottom: 0.25rem;
+}
+
+.source-path small {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.75rem;
+  font-weight: 400;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.action-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  transition: all 0.25s ease;
+  border: 1px solid transparent;
+}
+
+.view-button {
+  color: var(--md-primary-fg-color);
+  background-color: var(--md-primary-fg-color--lightest);
+  border-color: var(--md-primary-fg-color--light);
+}
+
+.view-button:hover {
+  background-color: var(--md-primary-fg-color--light);
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+}
+
+.edit-button {
+  color: var(--md-accent-fg-color);
+  background-color: var(--md-accent-fg-color--lightest);
+  border-color: var(--md-accent-fg-color--light);
+}
+
+.edit-button:hover {
+  background-color: var(--md-accent-fg-color--light);
+  color: var(--md-accent-fg-color);
+  text-decoration: none;
+}
+
+.action-button .twemoji {
+  width: 1rem;
+  height: 1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Ensure proper spacing with page content */
+.md-content__inner h1 + .source-actions {
+  margin-top: -1rem;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] .source-actions {
+  border-bottom-color: var(--md-default-fg-color--lightest);
+}
+
+[data-md-color-scheme="slate"] .source-path small {
+  color: var(--md-default-fg-color--light);
+}
+
+[data-md-color-scheme="slate"] .view-button {
+  background-color: var(--md-primary-fg-color--lightest);
+  color: var(--md-primary-fg-color);
+}
+
+[data-md-color-scheme="slate"] .edit-button {
+  background-color: var(--md-accent-fg-color--lightest);
+  color: var(--md-accent-fg-color);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 76.1875em) {
+  .action-buttons {
+    flex-direction: column;
+  }
+  
+  .action-button {
+    justify-content: center;
+  }
+}

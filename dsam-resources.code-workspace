@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "markdownlint.config": {
+      "MD033": false
+    },
+    "markdown.validate.enabled": true,
+    "markdown.preview.breaks": true,
+    "markdown.preview.linkify": true,
+    "files.associations": {
+      "*.md": "markdown"
+    },
+  },
+  "extensions": {
+    "recommendations": [
+      "yzhang.markdown-all-in-one",
+      "davidanson.vscode-markdownlint",
+    ]
+  }
+}
