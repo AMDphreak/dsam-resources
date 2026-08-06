@@ -1,19 +1,49 @@
-= DSAM Family Resources
-:toc:
+ifndef::env-github[:icons: font]
+:toc: preamble
 :toclevels: 2
+:sectanchors:
+
+ifndef::env-github[]
+image:https://img.shields.io/github/contributors/AMDphreak/dsam-resources.svg?style=for-the-badge[Contributors,link=https://github.com/AMDphreak/dsam-resources/graphs/contributors]
+image:https://img.shields.io/github/forks/AMDphreak/dsam-resources.svg?style=for-the-badge[Forks,link=https://github.com/AMDphreak/dsam-resources/network/members]
+image:https://img.shields.io/github/stars/AMDphreak/dsam-resources.svg?style=for-the-badge[Stars,link=https://github.com/AMDphreak/dsam-resources/stargazers]
+image:https://img.shields.io/github/issues/AMDphreak/dsam-resources.svg?style=for-the-badge[Issues,link=https://github.com/AMDphreak/dsam-resources/issues]
+image:https://img.shields.io/github/license/AMDphreak/dsam-resources.svg?style=for-the-badge[License,link=https://github.com/AMDphreak/dsam-resources/blob/main/LICENSE]
+endif::[]
+
+ifdef::env-github[]
+image:https://img.shields.io/github/contributors/AMDphreak/dsam-resources.svg?style=for-the-badge[Contributors]
+image:https://img.shields.io/github/forks/AMDphreak/dsam-resources.svg?style=for-the-badge[Forks]
+image:https://img.shields.io/github/stars/AMDphreak/dsam-resources.svg?style=for-the-badge[Stars]
+image:https://img.shields.io/github/issues/AMDphreak/dsam-resources.svg?style=for-the-badge[Issues]
+image:https://img.shields.io/github/license/AMDphreak/dsam-resources.svg?style=for-the-badge[License]
+endif::[]
+
+= DSAM Family Resources
 
 A comprehensive resource directory for families and friends of those with disabilities, maintained by the Down Syndrome Association of the Mid-South.
 
-Live Site: `https://amdphreak.github.io/dsam-resources`
+link:http://ryanjohnson.dev/dsam-resources/[Explore the docs] ·
+link:https://github.com/AMDphreak/dsam-resources/issues[Report Bug] ·
+link:https://github.com/AMDphreak/dsam-resources/issues[Request Feature]
 
-== Quick Start
+== About The Project
+
+Live site: link:https://amdphreak.github.io/dsam-resources[amdphreak.github.io/dsam-resources]
 
 This documentation site is built with MkDocs and the Material theme.
 
+== Built With
+
+* link:https://www.mkdocs.org/[MkDocs]
+* link:https://github.com/squidfunk/mkdocs-material[MkDocs Material]
+
+== Getting Started
+
 === Prerequisites
 
-- Python 3.8+
-- pip
+* Python 3.8+
+* pip (or link:https://github.com/astral-sh/uv[uv])
 
 === Install
 
@@ -61,7 +91,7 @@ mkdocs serve
 
 Open `http://localhost:8000`.
 
-== Build
+== Usage
 
 With your virtual environment activated:
 
@@ -74,8 +104,8 @@ Artifacts are written to the `site/` directory.
 
 == Why requirements.txt?
 
-- MkDocs and its plugins are Python packages. Pinning versions ensures consistent local and CI builds.
-- Locally, install into a virtual environment (as shown). No global Python installs are required.
+* MkDocs and its plugins are Python packages. Pinning versions ensures consistent local and CI builds.
+* Locally, install into a virtual environment (as shown). No global Python installs are required.
 
 == Deployment
 
@@ -88,12 +118,14 @@ Pushing to `main` triggers the GitHub Pages workflow to build and deploy the sit
 . Make your changes
 . Open a pull request
 
-== Contact
-
-Questions or suggestions: link:mail-to:director@dsamemphis.org[`director@dsamemphis.org`].
-
-Maintained by the Down Syndrome Association of the Mid-South `https://www.dsamemphis.org`.
-
 == License
 
-MIT License
+MIT License — see link:LICENSE[LICENSE].
+
+== Contact
+
+Down Syndrome Association of the Mid-South — link:mailto:director@dsamemphis.org[director@dsamemphis.org]
+
+* Project: https://github.com/AMDphreak/dsam-resources
+* Site: https://www.dsamemphis.org
+* Maintained by: Ryan Johnson — link:https://ryanjohnson.dev[ryanjohnson.dev]
