@@ -1,5 +1,11 @@
 # Legal Resources
 
+## Neurodivergent legal literacy
+
+| Organization | Details |
+| --- | --- |
+| Fair Notice | Free legal literacy for neurodivergent adults (Dallas / Fort Worth) and free training for courts, attorneys, and agencies. Fourteen sessions, six everyday contexts (paperwork, deadlines, signing under pressure, reporting, police contact, money). No diagnosis required. Leave with a card: Recognize, Stop, Escalate, plus three people to call. The same organization trains judges, prosecutors, defense counsel, and court staff to distinguish capacity failure from intent or defiance.<br><https://fairnotice.org><br>Launch record: <https://websitelaunches.com/site/fairnotice.org><br>See also [Neurodivergent Resources](Neurodivergent Resources.md). |
+
 ## General Resources
 
 | Organization                                              | Details                                                                                                                                                                                                                             |

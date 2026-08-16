@@ -11,14 +11,17 @@ This documentation contains:
 - **General Resources** - Essential information and support services
 - **Activities** - Sports, recreation, and social opportunities
 - **Adult Living** - Independent living and adult day care programs
+- **Autism Resources** - Tennessee autism societies, TRIAD, and related programs
 - **Healthcare** - Medical services, therapy providers, and health resources
 - **Government Resources** - Legal, financial, and administrative support
 - **Community Resources** - Local organizations and support groups
+- **Down Syndrome Resources** - Tennessee associations, clinics, and additional organizations
 - **Employment Resources** - Job training and employment opportunities
 - **Financial Resources** - Financial assistance and benefits information
 - **Food Resources** - Nutrition assistance and food programs
 - **Housing Resources** - Housing assistance and residential programs
-- **Legal Resources** - Legal advocacy and support services
+- **Legal Resources** - Legal advocacy and support services, including Fair Notice's free neurodivergent legal literacy program
+- **Neurodivergent Resources** - Autism, ADHD, and other neurodivergent programs (including Fair Notice)
 - **Spiritual Resources** - Faith-based support and services
 - **Transportation Services** - Transportation assistance and programs
 

@@ -16,6 +16,19 @@
 | Black Down Syndrome Association                                   | <https://www.blackdownsyndrome.org><br>Founders: Kelli Caughman & Crystal Lotterberry<br>Address: PO Box 365, Fortville, Indiana 46040<br><info@blackdownsyndrome.org>                                                                                                                                                                                           |
 | Christ Community Health Service Down Syndrome Clinic Orange Mound | 2569 Douglas Avenue<br>(901) 842-3164<br>Angie Chi Hers                                                                                                                                                                                                                                                                                                          |
 
+## National and other regions
+
+Drawn from [Website Launches](https://websitelaunches.com/). Newly listed sites can still be unproven; inclusion is not an endorsement. The Arkansas coalition is listed because Mid-South families often cross the state line.
+
+| Organization | Details |
+| --- | --- |
+| Down Syndrome Advancement Coalition of Arkansas | Partnership of Down syndrome organizations across Arkansas, advocating on education policy, service practices, awareness, funding, and resources.<br><https://ardsac.org><br>Launch record: <https://websitelaunches.com/site/ardsac.org> |
+| Down Syndrome Resource Center | Registered nonprofit with objective information about Down syndrome and connections for families, educators, and providers (Maryland, Virginia, and Washington, DC).<br><https://dsresourcecenter.org><br>Launch record: <https://websitelaunches.com/site/dsresourcecenter.org> |
+| ExceptionalPeopleT21 | Philadelphia nonprofit supporting people with Down syndrome and families through programs, community, and a shop that funds activities.<br><https://exceptionalpeoplet21.org><br>Launch record: <https://websitelaunches.com/site/exceptionalpeoplet21.org> |
+| Central Coast Down Syndrome Group | California Central Coast nonprofit offering education, advocacy, events, and volunteer opportunities for people with Down syndrome and families.<br><https://ccdsg.org><br>Launch record: <https://websitelaunches.com/site/ccdsg.org> |
+| AbleMakers | Nonprofit-oriented program using AI-powered quests so people with Down syndrome and other disabilities can create projects, learn skills, and share work; free access for learners.<br><https://ablemakers.org><br>Launch record: <https://websitelaunches.com/site/ablemakers.org> |
+| Janie's Game | Accessible board game designed for people with Down syndrome, autism, ADHD, and youth; counting, memory, and social play at home, school, or community settings.<br><https://janiesgame.com><br>Launch record: <https://websitelaunches.com/site/janiesgame.com> |
+
 ## DSAM Activities
 
 | Activity              | Details                                                                      |

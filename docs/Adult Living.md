@@ -9,6 +9,7 @@
 | Shepherd's Haven                                                      | <https://shepherdshaven.org/>                                                                              |
 | Equipment - Walkers, Wheelchairs, Elevated Toilet Chairs, Canes, etc. | UCP of Middle TN Equipment Exchange: <https://ucpmidtn.org/><br>(615) 242-4091                             |
 | SRVS                                                                  | <https://www.srvs.org/><br>Dr. Jacqueline Green<br>(901) 312-0425                                          |
+| Home at Heart Group Living                                            | Memphis residential living, in-home assistance, and skill development for people with intellectual and developmental disabilities. Now accepting new residents. Also listed under [Housing Resources](Housing Resources.md).<br>(901) 832-6055<br>5100 Poplar Ave., Suite 2724A, Memphis, TN 38137<br><https://homeatheartgroupliving.com> |
 
 ## Adult Day Care Programs
 

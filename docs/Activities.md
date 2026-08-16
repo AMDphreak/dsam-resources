@@ -28,6 +28,14 @@
 | Adaptive & Inclusive Fitness             | <https://specialstrong.com><br>Marko Pavlovic<br>(901) 578-8070<br>(901) 306-6156, (901) 485-5901<br>[marko.pavlovic@specialstrong.com](mailto:marko.pavlovic@specialstrong.com)    |
 | The Miracle League of Memphis            | <https://www.MemphisMiracleLeague.org><br>Eddy Hatcher<br>(901) 47-6473<br>[ehatcher@MemphisMiracleLeague.org](mailto:ehatcher@MemphisMiracleLeague.org)                            |
 
+## Inclusive games
+
+Drawn from [Website Launches](https://websitelaunches.com/).
+
+| Organization | Details |
+| --- | --- |
+| Janie's Game | Accessible Solitaire-style board game for people with Down syndrome, autism, ADHD, and youth. Designed for counting, memory, and social interaction at home, in class, or in the community.<br><https://janiesgame.com> |
+
 ## Camps and Programs
 
 | Program       | Details                                                                                                                                                         |

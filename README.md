@@ -31,6 +31,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#why-requirementstxt">Why requirements.txt?</a></li>
     <li><a href="#deployment">Deployment</a></li>
+    <li><a href="#changelog">Changelog</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -120,6 +121,12 @@ Artifacts are written to the `site/` directory.
 ## Deployment
 
 Pushing to `main` triggers the GitHub Pages workflow to build and deploy the site.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) and the [changelog-details](changelog-details/) folder for dated notes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
