@@ -9,7 +9,7 @@
   <h1>DSAM Family Resources</h1>
   <p>A comprehensive resource directory for families and friends of those with disabilities, maintained by the Down Syndrome Association of the Mid-South.</p>
   <p>
-    <a href="http://ryanjohnson.dev/dsam-resources/"><strong>Explore the docs »</strong></a>
+    <a href="https://ryanjohnson.dev/dsam-resources/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/AMDphreak/dsam-resources/issues">Report Bug</a>
@@ -40,7 +40,7 @@
 
 ## About The Project
 
-Live site: [amdphreak.github.io/dsam-resources](https://amdphreak.github.io/dsam-resources)
+Live site: [ryanjohnson.dev/dsam-resources](https://ryanjohnson.dev/dsam-resources/)
 
 This documentation site is built with MkDocs and the Material theme.
 
